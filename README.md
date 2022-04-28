@@ -11,12 +11,6 @@ Add in and optimize your content <br>
 Publish your website <br>
 Analyze and improve <br>
 
-
-
-
-#  3 types of web design
-Web designing is of three kinds, to be specific static, dynamic or CMS and eCommerce. Picking the sort of website design relies upon the kind of business and necessity of the entrepreneurs. Every one of these sites and be designed and developed on various platforms.
-
 # 10 example of website
 1 E-commerce. An E-commerce website is an online shop where people can order goods and make payments from the comfort of their own homes. ... <br>
 2 Blogs and Personal. ... <br>
