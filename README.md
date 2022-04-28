@@ -1,6 +1,3 @@
-# Make_Website_SVG_Animation
-Make Website SVG Animation
-
 # What is a best website design?
 PRINCIPLES OF GOOD WEBSITE DESIGN. An effective website design should fulfil its intended function by conveying its particular message whilst simultaneously engaging the visitor. Several factors such as consistency, colours, typography, imagery, simplicity, and functionality contribute to good website design
 # Designing Websites: The 8 Steps
